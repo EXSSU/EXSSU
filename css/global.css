@@ -1,7 +1,7 @@
 ﻿body,div,dt,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,dl,dt,dd,iframe {  margin:0; padding:0; }  
 
 html {	
-	color: #222;font-size:16px;overflow-y: scroll;background-attachment:fixed;			
+	color: #222;font-size:14px;overflow-y: scroll;background-attachment:fixed;			
 	font-family:"Helvetica Neue","Helvetica","PingFang SC","Hiragino Sans GB","Noto Sans CJK SC","Noto Sans CJK","Source Han Sans","WenQuanYi Micro Hei","Microsoft YaHei",sans-serif;
 }
 
@@ -13,8 +13,9 @@ a:link, a:visited ,a:hover, a:active{text-decoration: none;}
  
 body{
 	
-	display: block;background-attachment: fixed;background-repeat: repeat-x;background-size: 100% 100%;
+	display: block;
 	background: url(../images/north.png),linear-gradient(to right,#00AEEF 0%,#e89a9e 100%);	
+	background-attachment: fixed;background-repeat: repeat-x;background-size: 100% 100%;
 	
 }
 /******************header*********background:url(../imag0es/j5.jpg);background:linear-gradient(-90deg,#ace1af, #a3e6ff);*******/
@@ -54,8 +55,8 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 .main{width:880px;margin:auto;}
 .c-main{min-width:960px;max-width:1440px;margin:auto;height:810px;margin-top:80px;}
 .box{padding:20px 10px;}
-.main .box dt {font-size: 16px;line-height: 20px;}
-.main .box dd {font-size:15px;padding:15px 0 10px 0;line-height: 30px;}
+.main .box dt {font-size: 15px;line-height: 20px;}
+.main .box dd {font-size:14px;padding:15px 0 10px 0;line-height: 30px;}
 /*****************footer********************/
 
 .footer {
