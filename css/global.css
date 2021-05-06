@@ -1,7 +1,7 @@
-﻿body,div,dt,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,dl,dt,dd,iframe {  margin:0; padding:0; }  
+﻿body,div,dt,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td,dl,dt,dd,iframe {  margin:0; padding:0; border:0;}  
 
 html {	
-	color: #222;font-size:14px;overflow-y: scroll;background-attachment:fixed;			
+	font-size:14px;overflow-y: scroll;background-attachment:fixed;			
 	font-family:"Helvetica Neue","Helvetica","PingFang SC","Hiragino Sans GB","Noto Sans CJK SC","Noto Sans CJK","Source Han Sans","WenQuanYi Micro Hei","Microsoft YaHei",sans-serif;
 }
 
@@ -63,6 +63,7 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 	
     overflow:hidden;width: 880px;padding: 30px 10px 0px 10px;margin:auto;	
 }
+.footer span {font-size:12px;line-height:16px;}
 .copyright{
 	
 	border-top: 1px solid #ddd;text-align:center;	color: #aaa;	padding: 10px 0 40px 0;
