@@ -51,8 +51,8 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 /********************main*********************/
 .m-body{width:1015px;margin:auto;margin-top:80px;height:100%;padding-bottom:20px;}
 .main{width:1015px;margin:auto;height:100%;}
-.left-side{width:720px;float:left;height:100%;}
-.right-side{width:275px;float:right;height:100%;}
+.left-side{width:720px;float:left;height:100%;-webkit-text-size-adjust:none;}
+.right-side{width:275px;float:right;height:100%;-webkit-text-size-adjust:none;}
 .c-main{min-width:1015px;max-width:1440px;margin:auto;height:810px;margin-top:80px;}
 
 
