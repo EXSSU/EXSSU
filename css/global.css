@@ -19,6 +19,7 @@ body{
 	height:100%;
 	
 }
+html,body{-webkit-text-size-adjust:none;} 
 /******************header***************/
 .wrap{max-width:1015px;padding:0 0px;margin:auto;height:60px;line-height:60px;text-align:center;}
 .m-header {	
