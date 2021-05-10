@@ -49,10 +49,10 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 }
 
 /********************main*********************/
-.m-body,.main{width:1015px;min-height:800px;overflow:hidden;margin:auto;height:100%;}
+.m-body,.main{width:1015px;margin:auto;overflow:hidden;}
 .m-body{margin-top:80px;padding-bottom:20px;}
-.left-side{width:720px;float:left;height:100%;}
-.right-side{width:275px;float:right;height:100%;}
+.left-side{width:720px;float:left;}
+.right-side{width:275px;float:right;}
 .c-main{min-width:1015px;max-width:1440px;margin:auto;height:810px;margin-top:80px;}
 
 
