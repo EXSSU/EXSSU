@@ -94,5 +94,10 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 .h-left  a{font-size:16px;letter-spacing:0px;}
 .h-right a{font-size:16px;}
 .m-body img{max-width:100%;} 
+.left-side .box dt {font-size:15px;line-height: 15px;}
+.left-side .box dd {font-size:15px;line-height: 30px;}
+.right-side .box {padding:20px;margin-bottom:20px;}
+.right-side .box dt{font-size:15px;line-height: 14px;}
+.right-side .box dd{font-size:15px;line-height: 30px;}
 }	
 	
