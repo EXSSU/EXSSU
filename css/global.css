@@ -86,7 +86,7 @@ text-align: right;line-height: 175%;position: absolute;top:50px;right:0px;backgr
 .main{width:100%;margin:0;}
 .left-side{width:100%;margin:0;padding-bottom:20px;}
 .right-side{width:100%;margin:0;}
-#name{font-weight:normal;}
+#name{font-weight:bold;}
 .h-logo{width:80px;height:50px;line-height:50px;padding:5px 12px 5px 20px;}
 .h-left{width:50px;height:50px;line-height:50px;}
 .h-right{width:50px;height:50px;line-height:50px;}
