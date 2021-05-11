@@ -27,11 +27,11 @@ html,body{-webkit-text-size-adjust:none;}
 }
 
 .wrap{width:1035px;margin:auto;overflow:hidden;}
-.head{width:1015px; margin:0 10px;height:60px;line-height:60px;text-align:center;overflow:hidden;}
+.head{width:1015px; margin:0 10px;height:50px;line-height:50px;text-align:center;overflow:hidden;}
 
-.h-logo{width:80px;float:left;padding:10px 25px 10px 0px;height:40px;line-height:40px;}
-.h-left{width:80px;height:60px;line-height:60px;float:left;text-align:center;}
-.h-right{width:120px;height:60px;line-height:60px;float:right;text-align:right;}
+.h-logo{width:80px;float:left;padding:5px 25px 5px 0px;height:40px;line-height:40px;}
+.h-left{width:80px;height:50px;line-height:50px;float:left;text-align:center;}
+.h-right{width:120px;height:50px;line-height:50px;float:right;text-align:right;}
 .h-left  a{font-size:18px;letter-spacing:1px;display: block;color:#3D3461;}
 .h-right a{font-size:18px;letter-spacing:1px;display: block;color:#3D3461;}
 .h-left  a:hover{color:#f4655f;font-weight:bold;}
@@ -51,7 +51,7 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 }
 
 /********************main*********************/
-.m-body{width:1035px;margin:auto;margin-top:80px;padding-bottom:20px;overflow:hidden;}
+.m-body{width:1035px;margin:auto;margin-top:70px;padding-bottom:20px;overflow:hidden;}
 .main{width:1015px; margin:0 10px;overflow:hidden;}
 .main .box {background-color:#fff;}
 
