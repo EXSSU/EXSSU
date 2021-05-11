@@ -46,7 +46,7 @@ html,body{-webkit-text-size-adjust:none;}
 
 #about{
 overflow:visible;display: none;font-size:14px;width: 180px;border: 1px solid #999;
-text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;background:rgba(255,255,255,0.9);
+text-align: right;line-height: 175%;position: absolute;top:50px;right:0px;background:rgba(255,255,255,0.9);
 
 }
 
