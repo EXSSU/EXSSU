@@ -61,7 +61,7 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 .box{padding:20px;border-radius:5px;-moz-border-radius: 2px;-webkit-border-radius: 2px;clear:both;	position: relative;}
 
 .left-side .box dt {font-size:14px;line-height: 14px;padding-bottom:5px;color:#f4655f;}
-.left-side .box dd {font-size:14px;line-height: 24px;}
+.left-side .box dd {font-size:15px;line-height: 25px;}
 .right-side .box {padding:20px;margin-bottom:20px;}
 .right-side .box dt{font-size:14px;line-height: 14px;padding-bottom:5px;color:#f4655f;}
 .right-side .box dd{font-size:14px;line-height: 24px;}
