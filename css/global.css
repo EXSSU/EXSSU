@@ -2,8 +2,7 @@
 
 html {	
 	font-size:14px;color:#222;overflow-y: scroll;background-attachment:fixed;			
-	font-family:"PingFang SC","Helvetica Neue","Helvetica","Hiragino Sans GB","Noto Sans CJK SC","Noto Sans CJK","Source Han Sans","WenQuanYi Micro Hei",Arial,"Microsoft YaHei",sans-serif;
-	
+	font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif;
 	
 }
 
@@ -95,9 +94,9 @@ text-align: right;line-height: 175%;position: absolute;top:60px;right:0px;backgr
 .h-right a{font-size:16px;}
 .m-body img{max-width:100%;} 
 .left-side .box dt {font-size:15px;line-height: 15px;}
-.left-side .box dd {font-size:15px;line-height: 30px;}
+.left-side .box dd {font-size:15px;line-height: 1.6;}
 .right-side .box {padding:20px;margin-bottom:20px;}
-.right-side .box dt{font-size:15px;line-height: 14px;}
-.right-side .box dd{font-size:15px;line-height: 30px;}
+.right-side .box dt{font-size:15px;line-height: 15px;}
+.right-side .box dd{font-size:15px;line-height: 1.6;}
 }	
 	
