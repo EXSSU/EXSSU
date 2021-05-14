@@ -2,7 +2,7 @@
 
 html {	
 	font-size:14px;line-height:14px;color:#222;overflow-y: scroll;background-attachment:fixed;			
-	font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif;
+	font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Helvetica Neue","Hiragino Sans GB","Microsoft Sans Serif","Microsoft YaHei UI","Microsoft YaHei",Arial,sans-serif;
 	
 }
 
@@ -29,11 +29,11 @@ html,body{-webkit-text-size-adjust:none;}
 .wrap{width:1013px;margin:auto;}
 .head{width:1013px;margin:auto;}
 .h-logo{width:80px;float:left;padding-right:18px;margin:auto;}
-#logo{height: 14px;display: block;padding:18px 0;}
-#logo img {max-width: 100%; max-height: 100%; display: block;vertical-align:middle;}
-.h-left{padding: 0 18px;float:left;text-align:center;}
+#logo{display: block;padding:18px 0;font-weight:bold;}
+#logo img {height:14px;max-width: 100%; max-height: 100%; display: block;}
+.h-left{padding: 0 14px;float:left;text-align:center;}
 .h-right{padding: 0 18px;float:right;text-align:right;}
-.h-left a,.h-right a{font-size:18px;letter-spacing:1px;color:#3D3461;display: block;}
+.h-left a,.h-right a{font-size:18px;letter-spacing:1px;color:#3D3461;display: block;font-weight:bold;}
 
 .h-left  a:hover{color:#f4655f;font-weight:bold;}
 .h-right a:hover{color:#3D3461;}
@@ -68,10 +68,11 @@ text-align: right;line-height: 175%;position: absolute;top:50px;right:0px;backgr
 .m-footer {margin: auto;border-top: 1px solid #ddd;clear:both;}
 .footer{width:1013px;margin: auto;font-size:12px;line-height:22px;}
 .copyright{text-align:center;color: #aaa;color: #aaa;text-align:center;}
-#f-logo{height: 12px;display: block;}
-#f-logo img {max-width: 100%; max-height: 100%; display: block;vertical-align:middle;}
+#f-logo{display: block;}
+#f-logo img {height:12px;max-width: 100%; max-height: 100%; display: block;vertical-align:middle;}
 @media screen and (max-width: 720px) {
-.wrap,.head,.m-body,.main,.footer,.left-side,.right-side{width:100%;min-width:275px;}
+	
+.wrap,.head,.m-body,.main,.footer,.left-side,.right-side{width:100%;}
 
 #name{font-weight:normal;}
 .h-logo,.h-left,.h-right{padding:0 18px;}
