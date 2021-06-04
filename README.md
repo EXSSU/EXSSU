@@ -1,2 +1,2 @@
 # 
-Kexok.vip
+Aiki.wiki
